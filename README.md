@@ -141,11 +141,10 @@ This project demonstrates that robustness in regression is not achieved by disca
 
 Reproducing this method from scratch reinforces a deeper understanding of how classical statistical ideas continue to underpin modern machine learning practice.
 
-Reference
+## Reference
 
 ## Cleveland, W. S. (1979).
 "Robust Locally Weighted Regression and Smoothing Scatterplots"
 
-Author
-Kushagra Yadav
+
 
