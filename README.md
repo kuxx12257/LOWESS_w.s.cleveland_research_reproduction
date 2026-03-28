@@ -133,4 +133,19 @@ Increasing noise levels were tested:
 * Computationally expensive due to repeated local fitting
 * Sensitive to span parameter selection
 * Does not provide a global functional form
-* Limited extrapolation capability beyond observ
+* Limited extrapolation capability beyond observed data
+
+## Conclusion
+
+This project demonstrates that robustness in regression is not achieved by discarding data, but by reweighting it intelligently. Cleveland’s robust LOWESS framework provides a principled way to retain flexibility while mitigating the influence of outliers.
+
+Reproducing this method from scratch reinforces a deeper understanding of how classical statistical ideas continue to underpin modern machine learning practice.
+
+Reference
+
+## Cleveland, W. S. (1979).
+"Robust Locally Weighted Regression and Smoothing Scatterplots"
+
+Author
+Kushagra Yadav
+
